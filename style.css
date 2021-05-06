@@ -1,0 +1,38 @@
+h1{
+    
+  margin-left:700px;
+}
+{
+    border:solid;
+}
+
+.header{
+    background-color: rgb(240, 187, 220);
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.menu{
+    background-color:  rgb(240, 187, 220);
+}
+
+.games{
+    background-color: white;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    color:black;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+}
+
+h2,p{
+    text-align: center;
+}
